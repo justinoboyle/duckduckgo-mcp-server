@@ -62,7 +62,7 @@ Add the following configuration:
 
 1. Download [Claude Code](https://github.com/anthropics/claude-code)
 2. Ensure [`uvenv`](https://github.com/robinvandernoord/uvenv) is installed and the `uvx` command is available
-3. Add the MCP server: `claude mcp add duckduckgo-mcp-server uvx duckduckgo-mcp-server`
+3. Add the MCP server: `claude mcp add ddg-search uvx duckduckgo-mcp-server`
 
 ### Development
 
